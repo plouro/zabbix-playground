@@ -1,3 +1,7 @@
+## Update 2018.05.28 rev.1
+Updated scripts so that Works on Ubuntu 16.04 LTS and Zabbix 4.2.
+ChangeLog: Uptated aws jq and bc default path /bin/ to /usr/bin/
+
 ## 1. About
 
 Automatically discovers your buckets in AWS S3 and then:
